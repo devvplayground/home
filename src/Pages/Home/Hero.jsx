@@ -141,7 +141,7 @@ function Hero() {
             <p className='mb-5 max-w-64 font-robert-regular text-blue-75'>
               Enter the Metagame layer <br />Unleash the Play Economy
             </p>
-            <a href="https://drive.google.com/uc?export=download&id=YOUR_FILE_ID" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.dropbox.com/scl/fi/54mw5aalbwjhdnfkrwhtg/DevPlayground_Game.zip?rlkey=pjwy8qwe7i17dda7w8wbln8zj&st=zxt6its9&dl=0" target="_blank" rel="noopener noreferrer">
               <Button id="download" title="Download" ContainerClass='!bg-yellow-300 flex-center gap-1'/>
             </a>
           </div>
